@@ -93,11 +93,6 @@ amigo-secreto/
 - Mensajes de alerta informativos
 - Diseño responsive y accesible
 
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 👨‍💻 Autor
 
 **Andrea Carrillo Martínez**
