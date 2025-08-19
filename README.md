@@ -17,6 +17,11 @@ Este proyecto fue desarrollado como parte del **Challenge de ALURA**, aplicando 
 - **Responsive**: Compatible con dispositivos móviles y escritorio
 - **Accesibilidad**: Implementado con buenas prácticas de accesibilidad web
 
+## 🚀 Demo en vivo
+
+### [🎯 **Probar la aplicación aquí**](https://andy7604.github.io/challenge-amigo-secreto_esp-main/)
+
+> *¿Quieres ver cómo funciona? ¡Haz clic en el enlace de arriba para probarlo directamente!*
 
 ## 🛠️ Tecnologías utilizadas
 
