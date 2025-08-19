@@ -29,7 +29,6 @@ return;
 
 function mostrarAmigo(){
 
-    //mostrarAmigos = asignarTextoElemento("listaAmigos", "");
     mostrarAmigos = document.getElementById("listaAmigos");
     mostrarAmigos.innerHTML = "";
 
